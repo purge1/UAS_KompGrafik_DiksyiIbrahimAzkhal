@@ -4,7 +4,9 @@ UAS_KOMPGRAFIK_DIKSYI IBRAHIM AZKHAL
 
 
 Nama  : Diksyi Ibrahim Azkhal
+
 NIM   : 201011401011
+
 Kelas : 06TPLE007
 
 ## Requirements
@@ -17,7 +19,7 @@ Flask=2.3.2
 
 Buka website 
 kemudian upload gambar yang diinginkan
-![image]() 
+![image](https://github.com/purge1/UAS_KompGrafik_DiksyiIbrahimAzkhal/blob/main/UAS_KompGrafik_Diksyi%20Ibrahim%20Azkhal/gambar/bw%201.JPG) 
 
 
 Setelah upload gambar, akan langsung ditampilkan dan muncul form Size dan berikut adalah hasil dari crop
