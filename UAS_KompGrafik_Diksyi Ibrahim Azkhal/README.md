@@ -21,7 +21,7 @@ kemudian upload gambar yang diinginkan
 
 
 Setelah upload gambar, akan langsung ditampilkan dan muncul form Size dan berikut adalah hasil dari crop
-![image]()
+![image](https://github.com/purge1/UAS_KompGrafik_DiksyiIbrahimAzkhal/blob/main/UAS_KompGrafik_Diksyi%20Ibrahim%20Azkhal/gambar/bw%202.JPG)
 
 
 Jika sudah, akan ditampilkan hasil crop gambarnya.
